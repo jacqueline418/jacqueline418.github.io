@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #1e6256;
 }
 
 /* main blockqoute */
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #00719c repeat;
   position: relative;
 }
 
@@ -351,12 +351,12 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .blue {
   padding: 0 10px;
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: #efedf366;
   height: 100%;
   left: 0;
   position: absolute;
@@ -546,10 +546,10 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main blue-text */
 
-.teal-text {
-  color: #008073 !important;
+.blue-text {
+  color: #00719c !important;
 }
 
 /* .teal-text {
@@ -558,8 +558,8 @@ small {
 
 /* .teal */
 
-.teal {
-  background-color: #008073 !important;
+.blue {
+  background-color: #015374!important;
 }
 
 /* .teal {
